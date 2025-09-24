@@ -13,3 +13,10 @@ This repository extends the original project by improving the testing framework 
 - Added behavioral and fairness tests.  
 - Integrated Allure/HTML reporting for test results.  
 - Configured CI/CD pipeline with GitHub Actions.  
+
+
+## Test Results (Sample Report)
+
+![Test Report](test_results/test_report.png)
+
+👉 Full HTML report is available here: [report.html](test_results/report.html)
